@@ -7,7 +7,6 @@ from io import BytesIO
 from socket import error as socket_error
 import logging
 
-
 logger = logging.getLogger(__name__)
 
 
